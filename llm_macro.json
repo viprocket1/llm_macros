@@ -1,0 +1,15 @@
+{
+  "general": [
+    "Macro text 1 for general",
+    "Macro text 2 for general"
+  ],
+  "category1": [
+    "Macro text 1 for category1",
+    "Macro text 2 for category1"
+  ],
+  "category2": [
+    "Macro text 1 for category2",
+    "Macro text 2 for category2",
+    "Macro text 3 for category2"
+  ]
+}
